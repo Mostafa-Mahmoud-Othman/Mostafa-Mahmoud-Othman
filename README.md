@@ -20,6 +20,8 @@
 - Constantly learning and improving backend development skills
 - Open to collaboration on backend or full-stack .NET projects
 
+- **Currently focused on ASP.NET Core Web API and backend system design.**
+
 ---
 
 ## 🛠️ Tech Stack
