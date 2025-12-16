@@ -35,6 +35,28 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🍕 Pizza Ordering System
+**Windows Forms | C# | .NET Framework**
+- Desktop application for managing pizza orders  
+- Order creation, pricing, and basic order workflow  
+- Focus on clean UI logic and event-driven programming  
+
+🔗 https://github.com/Mostafa-Mahmoud-Othman/Pizza
+
+---
+
+### ❌⭕ XO Game
+**C# | Windows Forms**
+- Simple XO (Tic-Tac-Toe) game  
+- Handles player turns and win conditions  
+- Good practice for control logic and game state management  
+
+🔗 https://github.com/Mostafa-Mahmoud-Othman/XO-Game
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
