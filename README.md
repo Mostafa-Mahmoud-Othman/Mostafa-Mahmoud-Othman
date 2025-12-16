@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mostafa+Mahmoud;Backend+.NET+Developer;ASP.NET+Core+Enthusiast)
 
 </div>
 
