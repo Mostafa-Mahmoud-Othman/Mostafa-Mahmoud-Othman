@@ -1,9 +1,9 @@
-<div align="center" width="50">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mostafa+Mahmoud;Backend+.NET+Developer;ASP.NET+Core+Enthusiast" />
+</p>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mostafa+Mahmoud;Backend+.NET+Developer;ASP.NET+Core+Enthusiast)
+<h1 align="center">👋 Hi, I'm Mostafa Mahmoud</h1>
 
-</div>
 
 <h1 align="center">👋 Hi, I'm Mostafa Mahmoud</h1>
 
