@@ -7,8 +7,9 @@
 <p align="center">
   💻 <strong>Backend .NET Developer</strong> <br>
   🧩 <strong>Problem Solver</strong> <br>
-  🚀 Passionate about building scalable and efficient backend systems
+  🚀 Backend .NET Developer focused on building secure and scalable APIs
 </p>
+
 
 ---
 
