@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mostafa+Mahmoud;Backend+.NET+Developer;ASP.NET+Core+Enthusiast" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1800&duration=3800&color=E5E7EB&center=true&vCenter=true&width=900&lines=Hello+%3Ccoders%2F%3E;I'm+Mostafa+Mahmoud;Backend+.NET+Developer" />
+</div>
 
 <h1 align="center">👋 Hi, I'm Mostafa Mahmoud</h1>
 
