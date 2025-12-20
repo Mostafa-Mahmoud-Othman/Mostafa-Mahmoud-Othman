@@ -54,6 +54,21 @@
 
 ## 🚀 Featured Projects
 
+
+### 📊 Survey Basket API
+A scalable backend Web API built with ASP.NET Core for managing surveys, polls, and voting workflows, with a strong focus on security, performance, and clean architecture.
+
+**Tech Stack:** ASP.NET Core, EF Core, SQL Server, JWT, Redis, Hangfire, Serilog
+
+- JWT Authentication & Role-based Authorization
+- Background Jobs & Email Notifications
+- Caching, Rate Limiting, Pagination & Filtering
+
+
+🔗 **GitHub Repository:**  
+https://github.com/Mostafa-Mahmoud-Othman/SurveyBasket
+
+
 ### 🍕 Pizza Ordering System
 **Windows Forms | C# | .NET Framework**
 - Desktop application for managing pizza orders  
